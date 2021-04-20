@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="9.6000004"
+   inkscape:export-xdpi="9.6000004"
+   inkscape:export-filename="/home/yutyo/Resimler/korsanpartiprofil-new.png"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="korsanparti-profil-black-newbanner.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="-5000 -5000 10000 10000">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g1628"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="5621.7145"
+     inkscape:cx="-337.34571"
+     inkscape:zoom="0.034513307"
+     showgrid="false"
+     id="namedview10"
+     inkscape:window-height="715"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <rect
+     y="-5109.021"
+     x="-5109.021"
+     height="10218.042"
+     width="10218.042"
+     id="rect154"
+     style="fill:#000000;stroke-width:3.77953;stroke-linecap:round;paint-order:stroke fill markers;fill-opacity:1" />
+  <g
+     style="fill:#ffffff"
+     transform="scale(0.96620121)"
+     id="g1628">
+    <circle
+       cy="0"
+       cx="0"
+       r="4067.032"
+       fill="#fff"
+       id="circle4"
+       style="fill:#ffffff;stroke-width:0.903785" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke-width:22.9549"
+       id="path4834"
+       d="m -168.21574,-3575.8673 -1469.11756,734.56 1413.2467,353.276 v 375.1778 h 448.17311 v -1463.0138 z m -2811.69666,1859.5798 c 314.3007,485.384 464.6798,1087.79159 462.8654,1692.747761 -1.8408,613.909809 -160.2264,1232.455139 -477.579,1739.827339 H 2382.1217 C 2770.7495,1284.116 2988.3644,654.0243 2994.4927,14.175894 3000.6202,-627.347 2795.3811,-1265.0372 2382.8113,-1716.2875 h -5362.7459 z m 2755.82581,3801.1447 -0.10733,916.0435 c 137.820514,61.9775 258.473223,155.9571 351.94469,272.706 29.42983,-36.7288 61.74889,-71.0687 96.22842,-103.0688 l 0.10733,-1085.6807 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+</svg>

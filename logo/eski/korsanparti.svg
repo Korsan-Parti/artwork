@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="9.6000004"
+   inkscape:export-xdpi="9.6000004"
+   inkscape:export-filename="/home/yutyo/Resimler/korsanparti.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="korsanparti.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="-5000 -5000 10000 10000">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g1628"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="50"
+     inkscape:cy="5477.2837"
+     inkscape:cx="1049.523"
+     inkscape:zoom="0.026124924"
+     showgrid="false"
+     id="namedview10"
+     inkscape:window-height="743"
+     inkscape:window-width="1316"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     style="fill:#e30a17;fill-opacity:1"
+     transform="scale(1.2272484)"
+     id="g1628">
+    <circle
+       cy="0"
+       cx="0"
+       r="4067.032"
+       fill="#fff"
+       id="circle4"
+       style="fill:#e30a17;fill-opacity:1;stroke-width:0.903785" />
+    <g
+       transform="translate(-986.14282,-1437.0604)"
+       id="g956">
+      <circle
+         cy="1437.0604"
+         cx="986.14282"
+         r="3201.9363"
+         fill="#fff"
+         id="circle4-5"
+         style="fill:#ffffff;stroke-width:0.711541" />
+      <path
+         d="M -397.09376,2547.0649 V -446.38975 c -133.0583,-8.5385 -244.0588,0 -313.7898,20.6346 -19.9232,-43.4039 102.462,-110.2888 313.7898,-174.3276 v -576.34855 h 311.655098 v 498.07905 C 1037.3737,-911.02635 3275.883,-923.12255 3287.9792,1017.9624 3295.8061,2388.3912 868.02685,2179.198 164.31234,2623.9114 c -765.6185,482.4251 -421.944,1503.4869 -421.944,1503.4869 0,0 -463.2135,-956.3115 -139.4621,-1580.3334 z M -85.438662,2213.3521 C 243.29354,1989.928 807.54584,1720.2538 916.41167,1204.3863 1135.5664,166.95895 475.96754,-263.52365 -85.438662,-398.71645 Z"
+         id="path6"
+         style="fill:#e30a17;fill-opacity:1;stroke-width:0.711541"
+         inkscape:connector-curvature="0" />
+      <polygon
+         id="polygon212"
+         points="583.334,400 764.235,458.779 652.431,304.894 652.431,495.106 764.235,341.221 "
+         style="fill:#ffffff"
+         transform="matrix(6.3242658,0,0,6.3242658,-2137.2487,-2220.6659)" />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:122.22464499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4-2"
+       fill="#fff"
+       r="3867.6731"
+       cx="4.5474735e-13"
+       cy="4.5474735e-13" />
+  </g>
+</svg>
